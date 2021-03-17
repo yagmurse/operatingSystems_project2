@@ -1,10 +1,6 @@
 //Yağmur SELEK
-//Id:2017400273
 //cmpe322 project2
-//PS: except input1 all input gives desired outputs in macos 
-//However in Ubuntu sometimes it gives the lines switched for processes or a teller took wrong client
-//but if I run the code second or third time  it gives desired output
-//Unfortunately I couldn't solve this problem
+
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>
